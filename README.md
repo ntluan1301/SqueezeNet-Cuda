@@ -22,7 +22,7 @@ Implement SqueezeNet with a forward-backward optimizer from scratch using CUDA p
 ## Hướng Dẫn Sử Dụng
 **Lưu ý**: Cần có GPU để chạy các file này.
 
-###**Huấn Luyện Lại Từ Đầu**
+### **Huấn Luyện Lại Từ Đầu**
    - **Bước 1**: Tải dataset từ: [Tomato Diseases Dataset](https://www.kaggle.com/datasets/luisolazo/tomato-diseases).
    - **Bước 2**: Trong file `Cuda_Adam_Tunning_Parameter.ipynb`, thay đường dẫn `/kaggle/input/tomato-diseases` bằng đường dẫn đến dataset đã tải.
    - **Bước 3**: Chạy file `Cuda_Adam_Tunning_Parameter.ipynb` để tinh chỉnh tham số bằng Adam.
